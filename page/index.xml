@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on RadioPlayer</title>
-    <link>https://claraxfee.github.io/hugo-mock-landing-page/page/</link>
+    <link>http://localhost:1313/hugo-mock-landing-page/page/</link>
     <description>Recent content in Docs on RadioPlayer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Clara Fee</copyright>
-    <atom:link href="https://claraxfee.github.io/hugo-mock-landing-page/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugo-mock-landing-page/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RadioPlayer: a Beginner User&#39;s Guide</title>
-      <link>https://claraxfee.github.io/hugo-mock-landing-page/page/user-guide/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/page/user-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://claraxfee.github.io/hugo-mock-landing-page/page/user-guide/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/page/user-guide/</guid>
       <description>RadioPlayer User&amp;rsquo;s Guide Welcome to RadioPlayer, your go-to platform for online radio streaming. With RadioPlayer, you can discover a world of music, news, sports, and talk radio from all around the globe. This guide will help you get started and make the most out of your listening experience.&#xA;Getting Started Visit our website Visit radioplayer.com or search &amp;ldquo;RadioPlayer in your browser. Creating an Account Open the RadioPlayer app. Tap on &amp;ldquo;Sign Up.</description>
     </item>
   </channel>

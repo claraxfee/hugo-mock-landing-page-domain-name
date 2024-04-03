@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post on RadioPlayer</title>
-    <link>https://claraxfee.github.io/hugo-mock-landing-page/tags/post/</link>
+    <link>http://localhost:1313/hugo-mock-landing-page/tags/post/</link>
     <description>Recent content in Post on RadioPlayer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Clara Fee</copyright>
-    <lastBuildDate>Wed, 03 Apr 2024 09:13:49 -0400</lastBuildDate>
-    <atom:link href="https://claraxfee.github.io/hugo-mock-landing-page/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Apr 2024 10:37:21 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-mock-landing-page/tags/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bug fixes and improvements</title>
-      <link>https://claraxfee.github.io/hugo-mock-landing-page/post/fixes/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/post/fixes/</link>
       <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://claraxfee.github.io/hugo-mock-landing-page/post/fixes/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/post/fixes/</guid>
       <description>Update: bug fixes and improvements 🐛We heard your feedback: below is a list of our most recent bug fixes and improvements!🐛 Version 2.1.4 Bug Fixes&#xA;Fixed Audio Dropout Issue: Resolved a problem where users experienced intermittent audio dropouts during live streaming. Corrected Metadata Display: Addressed an issue causing the currently playing song metadata (artist, title) to display incorrectly or lag. Stability Improvements in Low Connectivity: Enhanced the app&amp;rsquo;s stability when operating under low network connectivity conditions, reducing crashes and buffering delays.</description>
     </item>
     <item>
       <title>Customization update: fireplace</title>
-      <link>https://claraxfee.github.io/hugo-mock-landing-page/post/custom/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/post/custom/</link>
       <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://claraxfee.github.io/hugo-mock-landing-page/post/custom/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/post/custom/</guid>
       <description>Customization update: fireplace 🔥 We heard your feedback: fireplace visual display options added! 🔥 The team at RadioPlayer is hard at work implementing new features to build listenership, allowing for greater functionality for users and broadcasters alike.&#xA;A fireplace visual display option was just added! Choose between a looping video of a fireplace, a YouTube livestream of a fireplace, or a many other static image choices. As always, if you don&amp;rsquo;t like our options, feel free to upload your own!</description>
     </item>
     <item>
       <title>New feature: Phone it in!</title>
-      <link>https://claraxfee.github.io/hugo-mock-landing-page/post/phone-it-in/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/post/phone-it-in/</link>
       <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://claraxfee.github.io/hugo-mock-landing-page/post/phone-it-in/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/post/phone-it-in/</guid>
       <description>New Feature: Phone it in! ☎️ We heard your feedback: calling in is here! ☎️ The team at RadioPlayer is hard at work implementing new features to build listenership, allowing for greater functionality for users and broadcasters alike.&#xA;With the Phone It In feature, RadioPlayer users will be able to &amp;ldquo;call in&amp;rdquo; at any time during your radio broadcast. Users can send in song requests, answer questions in a Q&amp;amp;A format, or even participate in a live talk show!</description>
     </item>
   </channel>
