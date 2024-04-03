@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RadioPlayer</title>
-    <link>http://localhost:1313/hugo-mock-landing-page/</link>
+    <link>https://claraxfee.github.io/hugo-mock-landing-page/</link>
     <description>Recent content on RadioPlayer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Clara Fee</copyright>
     <lastBuildDate>Wed, 03 Apr 2024 10:37:21 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-mock-landing-page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://claraxfee.github.io/hugo-mock-landing-page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bug fixes and improvements</title>
-      <link>http://localhost:1313/hugo-mock-landing-page/post/fixes/</link>
+      <link>https://claraxfee.github.io/hugo-mock-landing-page/post/fixes/</link>
       <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-mock-landing-page/post/fixes/</guid>
+      <guid>https://claraxfee.github.io/hugo-mock-landing-page/post/fixes/</guid>
       <description>Update: bug fixes and improvements 🐛We heard your feedback: below is a list of our most recent bug fixes and improvements!🐛 Version 2.1.4 Bug Fixes&#xA;Fixed Audio Dropout Issue: Resolved a problem where users experienced intermittent audio dropouts during live streaming. Corrected Metadata Display: Addressed an issue causing the currently playing song metadata (artist, title) to display incorrectly or lag. Stability Improvements in Low Connectivity: Enhanced the app&amp;rsquo;s stability when operating under low network connectivity conditions, reducing crashes and buffering delays.</description>
     </item>
     <item>
       <title>Customization update: fireplace</title>
-      <link>http://localhost:1313/hugo-mock-landing-page/post/custom/</link>
+      <link>https://claraxfee.github.io/hugo-mock-landing-page/post/custom/</link>
       <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-mock-landing-page/post/custom/</guid>
+      <guid>https://claraxfee.github.io/hugo-mock-landing-page/post/custom/</guid>
       <description>Customization update: fireplace 🔥 We heard your feedback: fireplace visual display options added! 🔥 The team at RadioPlayer is hard at work implementing new features to build listenership, allowing for greater functionality for users and broadcasters alike.&#xA;A fireplace visual display option was just added! Choose between a looping video of a fireplace, a YouTube livestream of a fireplace, or a many other static image choices. As always, if you don&amp;rsquo;t like our options, feel free to upload your own!</description>
     </item>
     <item>
       <title>New feature: Phone it in!</title>
-      <link>http://localhost:1313/hugo-mock-landing-page/post/phone-it-in/</link>
+      <link>https://claraxfee.github.io/hugo-mock-landing-page/post/phone-it-in/</link>
       <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-mock-landing-page/post/phone-it-in/</guid>
+      <guid>https://claraxfee.github.io/hugo-mock-landing-page/post/phone-it-in/</guid>
       <description>New Feature: Phone it in! ☎️ We heard your feedback: calling in is here! ☎️ The team at RadioPlayer is hard at work implementing new features to build listenership, allowing for greater functionality for users and broadcasters alike.&#xA;With the Phone It In feature, RadioPlayer users will be able to &amp;ldquo;call in&amp;rdquo; at any time during your radio broadcast. Users can send in song requests, answer questions in a Q&amp;amp;A format, or even participate in a live talk show!</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/hugo-mock-landing-page/about/</link>
+      <link>https://claraxfee.github.io/hugo-mock-landing-page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-mock-landing-page/about/</guid>
+      <guid>https://claraxfee.github.io/hugo-mock-landing-page/about/</guid>
       <description>About Us Made with ❤️ by the Hugo Bootstrap Theme team.</description>
     </item>
     <item>
       <title>Code of Conduct</title>
-      <link>http://localhost:1313/hugo-mock-landing-page/code-of-conduct/</link>
+      <link>https://claraxfee.github.io/hugo-mock-landing-page/code-of-conduct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-mock-landing-page/code-of-conduct/</guid>
+      <guid>https://claraxfee.github.io/hugo-mock-landing-page/code-of-conduct/</guid>
       <description>Contributor Covenant Code of Conduct Our Pledge We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.&#xA;We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/hugo-mock-landing-page/contact/</link>
+      <link>https://claraxfee.github.io/hugo-mock-landing-page/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-mock-landing-page/contact/</guid>
+      <guid>https://claraxfee.github.io/hugo-mock-landing-page/contact/</guid>
       <description>Contact To get into contact with us and for business inquiries, email us at radioplayer@radio.com.&#xA;To report an issue with this website, contact webdev@radio.com.&#xA;To report an issue with the RadioPlayer interface, contact dev@radio.com.&#xA;To suggest new features, give feedback, or request changes, contact design@radio.com.</description>
     </item>
     <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:1313/hugo-mock-landing-page/privacy-policy/</link>
+      <link>https://claraxfee.github.io/hugo-mock-landing-page/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-mock-landing-page/privacy-policy/</guid>
+      <guid>https://claraxfee.github.io/hugo-mock-landing-page/privacy-policy/</guid>
       <description>Privacy Policy TLDR: We do not use cookies and we do not collect any personal data.&#xA;Website visitors No personal information is collected. No information is stored in the browser. No information is shared with, sent to or sold to third-parties. No information is shared with advertising companies. No information is mined and harvested for personal and behavioral trends. No information is monetized. Information we collect and what we use it for The server hosting this site can collect the following information:</description>
     </item>
     <item>
       <title>RadioPlayer: a Beginner User&#39;s Guide</title>
-      <link>http://localhost:1313/hugo-mock-landing-page/page/user-guide/</link>
+      <link>https://claraxfee.github.io/hugo-mock-landing-page/page/user-guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-mock-landing-page/page/user-guide/</guid>
+      <guid>https://claraxfee.github.io/hugo-mock-landing-page/page/user-guide/</guid>
       <description>RadioPlayer User&amp;rsquo;s Guide Welcome to RadioPlayer, your go-to platform for online radio streaming. With RadioPlayer, you can discover a world of music, news, sports, and talk radio from all around the globe. This guide will help you get started and make the most out of your listening experience.&#xA;Getting Started Visit our website Visit radioplayer.com or search &amp;ldquo;RadioPlayer in your browser. Creating an Account Open the RadioPlayer app. Tap on &amp;ldquo;Sign Up.</description>
     </item>
   </channel>
