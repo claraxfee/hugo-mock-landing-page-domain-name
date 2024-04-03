@@ -10,8 +10,6 @@ authors: ["Clara Fee"]
 
 # New Feature: Phone it in!
 
-![phone header](header-1.svg)
-
 > ## ☎️ We heard your feedback: calling in is here! ☎️
 
 The team at RadioPlayer is hard at work implementing new features to build listenership, allowing for greater functionality for users and broadcasters alike.

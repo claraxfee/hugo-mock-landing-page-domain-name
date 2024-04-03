@@ -10,7 +10,7 @@ authors: ["Clara Fee"]
 
 # Update: bug fixes and improvements
 
-> We heard your feedback: below is a list of our most recent bug fixes and improvements!
+> ## 🐛We heard your feedback: below is a list of our most recent bug fixes and improvements!🐛
 
 ### Version 2.1.4
 
