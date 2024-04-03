@@ -4,6 +4,7 @@ copyright = "Clara Fee"
 title = "RadioPlayer"
 
 timeZone = 'Europe/London'
+languageCode = 'en-us'
 
 # Multilingual
 defaultContentLanguage = "en"
