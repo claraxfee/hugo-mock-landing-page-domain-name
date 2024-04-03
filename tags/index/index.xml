@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Index on RadioPlayer</title>
-    <link>https://claraxfee.github.io/hugo-mock-landing-page/tags/index/</link>
+    <link>http://claraxfee.github.io/hugo-mock-landing-page/tags/index/</link>
     <description>Recent content in Index on RadioPlayer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Clara Fee</copyright>
-    <atom:link href="https://claraxfee.github.io/hugo-mock-landing-page/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://claraxfee.github.io/hugo-mock-landing-page/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docs</title>
-      <link>https://claraxfee.github.io/hugo-mock-landing-page/page/</link>
+      <link>http://claraxfee.github.io/hugo-mock-landing-page/page/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://claraxfee.github.io/hugo-mock-landing-page/page/</guid>
+      <guid>http://claraxfee.github.io/hugo-mock-landing-page/page/</guid>
       <description></description>
     </item>
     <item>
       <title>Posts</title>
-      <link>https://claraxfee.github.io/hugo-mock-landing-page/post/</link>
+      <link>http://claraxfee.github.io/hugo-mock-landing-page/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://claraxfee.github.io/hugo-mock-landing-page/post/</guid>
+      <guid>http://claraxfee.github.io/hugo-mock-landing-page/post/</guid>
       <description></description>
     </item>
   </channel>
