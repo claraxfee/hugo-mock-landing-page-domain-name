@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on RadioPlayer</title>
-    <link>https://claraxfee.github.io/HW01-COMPLETE.hugo-landing-mockup/authors/</link>
+    <link>http://localhost:1313/hugo-mock-landing-page/authors/</link>
     <description>Recent content in Authors on RadioPlayer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Clara Fee</copyright>
-    <lastBuildDate>Wed, 03 Apr 2024 11:37:21 -0400</lastBuildDate>
-    <atom:link href="https://claraxfee.github.io/HW01-COMPLETE.hugo-landing-mockup/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Apr 2024 02:19:24 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-mock-landing-page/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Clara Fee</title>
-      <link>https://claraxfee.github.io/HW01-COMPLETE.hugo-landing-mockup/authors/clara-fee/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/authors/clara-fee/</link>
       <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://claraxfee.github.io/HW01-COMPLETE.hugo-landing-mockup/authors/clara-fee/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/authors/clara-fee/</guid>
       <description></description>
     </item>
     <item>
       <title>Filipe Carneiro</title>
-      <link>https://claraxfee.github.io/HW01-COMPLETE.hugo-landing-mockup/authors/filipe-carneiro/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/authors/filipe-carneiro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://claraxfee.github.io/HW01-COMPLETE.hugo-landing-mockup/authors/filipe-carneiro/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/authors/filipe-carneiro/</guid>
       <description>Filipe Carneiro.</description>
     </item>
   </channel>

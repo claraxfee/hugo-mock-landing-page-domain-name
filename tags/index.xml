@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on RadioPlayer</title>
-    <link>https://claraxfee.github.io/HW01-COMPLETE.hugo-landing-mockup/tags/</link>
+    <link>http://localhost:1313/hugo-mock-landing-page/tags/</link>
     <description>Recent content in Tags on RadioPlayer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Clara Fee</copyright>
-    <lastBuildDate>Wed, 03 Apr 2024 11:37:21 -0400</lastBuildDate>
-    <atom:link href="https://claraxfee.github.io/HW01-COMPLETE.hugo-landing-mockup/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Apr 2024 02:19:24 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugo-mock-landing-page/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post</title>
-      <link>https://claraxfee.github.io/HW01-COMPLETE.hugo-landing-mockup/tags/post/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/tags/post/</link>
       <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://claraxfee.github.io/HW01-COMPLETE.hugo-landing-mockup/tags/post/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/tags/post/</guid>
       <description></description>
     </item>
     <item>
       <title>Featured</title>
-      <link>https://claraxfee.github.io/HW01-COMPLETE.hugo-landing-mockup/tags/featured/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/tags/featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://claraxfee.github.io/HW01-COMPLETE.hugo-landing-mockup/tags/featured/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/tags/featured/</guid>
       <description></description>
     </item>
     <item>
       <title>Index</title>
-      <link>https://claraxfee.github.io/HW01-COMPLETE.hugo-landing-mockup/tags/index/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://claraxfee.github.io/HW01-COMPLETE.hugo-landing-mockup/tags/index/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/tags/index/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>https://claraxfee.github.io/HW01-COMPLETE.hugo-landing-mockup/tags/privacy/</link>
+      <link>http://localhost:1313/hugo-mock-landing-page/tags/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://claraxfee.github.io/HW01-COMPLETE.hugo-landing-mockup/tags/privacy/</guid>
+      <guid>http://localhost:1313/hugo-mock-landing-page/tags/privacy/</guid>
       <description></description>
     </item>
   </channel>

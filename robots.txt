@@ -1,3 +1,2 @@
 User-agent: *
-Disallow: /404.html
-Sitemap: https://claraxfee.github.io/HW01-COMPLETE.hugo-landing-mockup/sitemap.xml
+Disallow: /
