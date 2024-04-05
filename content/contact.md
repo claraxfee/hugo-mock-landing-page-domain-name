@@ -8,7 +8,7 @@ menu:
 
 # Contact
 
-To get into contact with us and for business inquiries, email us at radioplayer@radio.com. 
+To get into contact with us and for business inquiries, email us at radioplayer@radio.com
 
 To report an issue with this website, contact webdev@radio.com.
 
