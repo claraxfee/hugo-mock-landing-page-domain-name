@@ -2,7 +2,7 @@
 
 ## Hugo Mockup Landing Page
 
-This is a mockup of a landing page for a fake product called RadioPlayer. This project was created to practice using Hugo, a website building framework, with Bootstrap. This project was deployed with GitHub Pages and can be viewed at [HW01-COMPLETE.hugo-landing-mockup](https://claraxfee.github.io/HW01-COMPLETE.hugo-landing-mockup/)
+This is a mockup of a landing page for a fake product called RadioPlayer. This project was created to practice using Hugo, a website building framework, with Bootstrap. This project was deployed with GitHub Pages and can be viewed at [claraxfee.github.io/hugo-mock-landing-page/](https://claraxfee.github.io/hugo-mock-landing-page/)
 
 In this project, see USER_STORIES.md for User Stories and some practice with product development and design. While building the project, I developed the following skills:
 
