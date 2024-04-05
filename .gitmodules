@@ -1,4 +1,4 @@
 
-[submodule "themes/hugo-bootstrap-theme"]
-	path = themes/hugo-bootstrap-theme
+[submodule "hugo-bootstrap-theme"]
+	path = hugo-bootstrap-theme
 	url = https://github.com/filipecarneiro/hugo-bootstrap-theme
